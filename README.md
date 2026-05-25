@@ -7,9 +7,9 @@
 
 🌱 I’m currently learning Advanced Python backend development, Django, PostgreSQL, authentication systems, REST APIs, and scalable API design.
 
-💬 Ask me about Python, Django, REST APIs, Firebase, SQL, or software engineering projects.
+⚡ My main skillsets are Python (Django, Flask) | REST APIs | SQL | PostgreSQL | API Integration
 
-⚡ Fun fact: I built a disaster notification app that monitors earthquakes, floods, wildfires, storms, and volcanoes in real time using live APIs.
+💬 Fun fact: I built a disaster notification app that monitors earthquakes, floods, wildfires, storms, and volcanoes in real time using live APIs.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/detta_user) 
